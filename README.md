@@ -43,12 +43,8 @@ I have a degree in Financial Management and I worked in several sectors of the A
 <a href="https://www.linkedin.com/in/garciaagui/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-2E3251?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-### Badges
+### GitHub Stats
 
-<b>My GitHub Stats</b>
+<a href="http://www.github.com/garciaagui"><img src="https://github-readme-stats-drab-nine.vercel.app/api?username=garciaagui&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true" alt="garciaagui's GitHub stats" /></a>
 
-<!-- <a href="http://www.github.com/garciaagui"><img src="https://github-readme-stats.vercel.app/api?username=garciaagui&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&show_icons=true" alt="garciaagui's GitHub stats" /></a>
- -->
-<a href="http://www.github.com/garciaagui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=garciaagui&stroke=ffffff&background=22272e&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<!-- <a href="https://github.com/garciaagui" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garciaagui&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<a href="https://github.com/garciaagui" align="left"><img src="https://github-readme-stats-drab-nine.vercel.app/api/top-langs/?username=garciaagui&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
