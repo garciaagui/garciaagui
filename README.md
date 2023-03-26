@@ -8,7 +8,7 @@ I have a degree in Financial Management and I worked in several sectors of the A
 
 * 🌍  I'm based in Porto Feliz, São Paulo - Brasil 🇧🇷
 * ✉️  You can contact me at [garciaguig@gmail.com](mailto:garciaguig@gmail.com)
-* 🧠  I'm currently studying and improving my skills in back-end technologies, such as MySQL, Node.js and Typescript.
+* 🧠  I'm currently studying and improving my skills in Python 🐍.
 
 ### Skills
 
