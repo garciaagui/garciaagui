@@ -1,14 +1,12 @@
-Hello there, my name is Guilherme Garcia 🤘
-========================================================================================================================================
+# Hello there, my name is Guilherme Garcia 🤘
 
-Full Stack Developer
--------------------
+## Full Stack Developer
 
 I have a degree in Financial Management and I worked in several sectors of the Administrative branch for 4 years. I've been studying programming since 2022, when I started [Trybe](https://www.betrybe.com/) Web Development course. I'm excited to enjoy the most of this world 🤩
 
-* 🌍  I'm based in Porto Feliz, São Paulo - Brasil 🇧🇷
-* ✉️  You can contact me at [garciaguig@gmail.com](mailto:garciaguig@gmail.com)
-* 🧠  I'm currently studying and improving my skills in Python 🐍.
+- 🌍 I'm based in Porto Feliz, São Paulo - Brasil 🇧🇷
+- ✉️ You can contact me at [garciaguig@gmail.com](mailto:garciaguig@gmail.com)
+- 🧠 I'm currently studying and improving my skills in Python 🐍
 
 ### Skills
 
@@ -33,14 +31,13 @@ I have a degree in Financial Management and I worked in several sectors of the A
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-2E3251?style=for-the-badge&logo=react&logoColor=white" alt="React" /></a>
 <a href="https://react.dev/reference/react" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Hooks-2E3251?style=for-the-badge&logo=React_Hooks&logoColor=white" alt="React Hooks" /></a>
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Router-2E3251?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" /></a>
-<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Testing_Library-2E3251?style=for-the-badge&logo=React_Testing_Library&logoColor=white" alt="React Testing Library" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redux-2E3251?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
 <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sequelize-2E3251?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" /></a>
 <a href="https://sinonjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sinon.js-2E3251?style=for-the-badge&logo=sinon" alt="Sinon.js" /></a>
 <a href="https://stylelint.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/stylelint-2E3251?style=for-the-badge&logo=stylelint&logoColor=white" alt="Stylelint" /></a>
+<a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Testing Library-2E3251?style=for-the-badge&logo=Testing Library&logoColor=white" alt="Testing Library" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-2E3251?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
 </p>
-
 
 ### Socials
 
@@ -54,3 +51,7 @@ I have a degree in Financial Management and I worked in several sectors of the A
 <a href="http://www.github.com/garciaagui"><img src="https://github-readme-stats-pearl-phi.vercel.app/api?username=garciaagui&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true" alt="garciaagui's GitHub stats" /></a>
 
 <a href="https://github.com/garciaagui" align="left"><img src="https://github-readme-stats-pearl-phi.vercel.app/api/top-langs/?username=garciaagui&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+
+### Projects (Besides Pinned Ones)
+
+<a href="https://github.com/garciaagui/jobs-insights" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jobs_Insights-B41717?style=for-the-badge&logo=Jobs_Insights&logoColor=white" alt="Jobs Insights"/></a>
