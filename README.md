@@ -54,4 +54,4 @@ I have a degree in Financial Management and I worked in several sectors of the A
 
 ### Projects (Besides Pinned Ones)
 
-<a href="https://github.com/garciaagui/jobs-insights" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jobs_Insights-B41717?style=for-the-badge&logo=Jobs_Insights&logoColor=white" alt="Jobs Insights"/></a>
+<a href="https://github.com/garciaagui/jobs-insights"><img src="https://github-readme-stats-pearl-phi.vercel.app/api/pin/?username=garciaagui&repo=jobs-insights&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true" alt="garciaagui's GitHub stats" /></a>
