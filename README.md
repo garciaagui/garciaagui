@@ -49,12 +49,13 @@ I have a degree in Financial Management and I worked in several sectors of the A
 ### GitHub Stats
 
 <a href="http://www.github.com/garciaagui"><img src="https://github-readme-stats-pearl-phi.vercel.app/api?username=garciaagui&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true" alt="garciaagui's GitHub stats" /></a>
-
 <a href="https://github.com/garciaagui" align="left"><img src="https://github-readme-stats-pearl-phi.vercel.app/api/top-langs/?username=garciaagui&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
 ### Projects (Besides Pinned Ones)
 
 <a href="https://github.com/garciaagui/jobs-insights"><img src="https://github-readme-stats-pearl-phi.vercel.app/api/pin/?username=garciaagui&repo=jobs-insights&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true" alt="garciaagui's GitHub stats" /></a>
+<a href="https://github.com/garciaagui/inventory-report" style="margin-right: 10px;"><img src="https://github-readme-stats-pearl-phi.vercel.app/api/pin/?username=garciaagui&repo=inventory-report&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true" alt="garciaagui's GitHub stats" /></a>
+<a href="https://github.com/garciaagui/tech-news"><img src="https://github-readme-stats-pearl-phi.vercel.app/api/pin/?username=garciaagui&repo=tech-news&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true" alt="garciaagui's GitHub stats" /></a>
 
 <!-- Skills Badges -->
 
