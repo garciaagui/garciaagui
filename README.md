@@ -4,7 +4,7 @@
 
 I used to be an adventurer like you. Then I took an arrow in the knee... 🏹 No, I'm kidding, I faced fierce dragons only in the world of Skyrim.
 
-I hold a degree in Financial Management and have accumulated four years of professional experience across various sectors within the administrative field. My fascination with programming prompted me to embark on a career transition in 2022, and I am now working as a junior developer. 🧑‍💻
+I hold a degree in Financial Management and have accumulated four years of professional experience across various sectors within the administrative field. My fascination with programming prompted me to embark on a career transition in 2022, and now I work as a junior developer. 🧑‍💻
 
 - 🌍 I'm based in Porto Feliz, São Paulo - Brasil 🇧🇷
 - ✉️ You can contact me at [garciaguig@gmail.com](mailto:garciaguig@gmail.com)
