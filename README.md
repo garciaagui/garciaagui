@@ -2,8 +2,6 @@
 
 ## Full Stack Developer
 
-I used to be an adventurer like you. Then I took an arrow in the knee... 🏹 No, I'm kidding, I faced fierce dragons only in the world of Skyrim.
-
 I hold a degree in Financial Management and have accumulated four years of professional experience across various sectors within the administrative field. My fascination with programming prompted me to embark on a career transition in 2022, and now I work as a full stack developer. 🧑‍💻
 
 - 🌍 I'm based in Porto Feliz, São Paulo - Brasil 🇧🇷
@@ -29,12 +27,11 @@ I hold a degree in Financial Management and have accumulated four years of profe
 [![MongoDB][mongodb-badge]][mongodb-url]
 [![Mongoose][mongoose-badge]][mongoose-url]
 [![MySQL][mysql-badge]][mysql-url]
+[![NextJS][nextjs-badge]][nextjs-url]
 [![Node.js][nodejs-badge]][nodejs-url]
 [![Python][python-badge]][python-url]
 [![Pytest][pytest-badge]][pytest-url]
 [![React][react-badge]][react-url]
-[![React Context][react-context-badge]][react-context-url]
-[![React Hooks][react-hooks-badge]][react-hooks-url]
 [![React Router][react-router-badge]][react-router-url]
 [![Redux][redux-badge]][redux-url]
 [![Sequelize][sequelize-badge]][sequelize-url]
@@ -72,8 +69,6 @@ I hold a degree in Financial Management and have accumulated four years of profe
 [git-badge]: https://img.shields.io/badge/Git-2E3251?style=for-the-badge&logo=git&logoColor=white
 [html5-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 [html5-badge]: https://img.shields.io/badge/HTML5-2E3251?style=for-the-badge&logo=html5&logoColor=white
-[react-context-url]: https://react.dev/learn/passing-data-deeply-with-context
-[react-context-badge]: https://img.shields.io/badge/React_Context-2E3251?style=for-the-badge&logo=React_Context&logoColor=white
 [javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [javascript-badge]: https://img.shields.io/badge/JavaScript-2E3251?style=for-the-badge&logo=javascript&logoColor=white
 [jest-url]: https://jestjs.io/
@@ -90,6 +85,8 @@ I hold a degree in Financial Management and have accumulated four years of profe
 [mongoose-badge]: https://img.shields.io/badge/Mongoose-2E3251.svg?style=for-the-badge&logo=Mongoose&logoColor=white
 [mysql-url]: https://www.mysql.com/
 [mysql-badge]: https://img.shields.io/badge/MySQL-2E3251?style=for-the-badge&logo=mysql&logoColor=white
+[nextjs-url]: https://nextjs.org/
+[nextjs-badge]: https://img.shields.io/badge/Next.js-2E3251?style=for-the-badge&logo=next.js&logoColor=white
 [nodejs-url]: https://nodejs.org/en/
 [nodejs-badge]: https://img.shields.io/badge/Node.js-2e3251?style=for-the-badge&logo=nodedotjs&logoColor=white
 [python-url]: https://www.python.org/
@@ -98,8 +95,6 @@ I hold a degree in Financial Management and have accumulated four years of profe
 [pytest-badge]: https://img.shields.io/badge/Pytest-2E3251?style=for-the-badge&logo=pytest&logoColor=white
 [react-url]: https://react.dev/
 [react-badge]: https://img.shields.io/badge/React-2E3251?style=for-the-badge&logo=react&logoColor=white
-[react-hooks-url]: https://react.dev/reference/react
-[react-hooks-badge]: https://img.shields.io/badge/React_Hooks-2E3251?style=for-the-badge&logo=React_Hooks&logoColor=white
 [react-router-url]: https://reactrouter.com/en/main
 [react-router-badge]: https://img.shields.io/badge/React_Router-2E3251?style=for-the-badge&logo=react-router&logoColor=white
 [redux-url]: https://redux.js.org/
