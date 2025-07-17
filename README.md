@@ -6,7 +6,7 @@ I hold a degree in Financial Management and have accumulated four years of profe
 
 - 🌍 I'm based in Porto Feliz, São Paulo - Brasil 🇧🇷
 - ✉️ You can contact me at [garciaguig@gmail.com](mailto:garciaguig@gmail.com)
-- 🧠 I'm currently studying NextJS and cloud storage.
+- 🧠 I'm currently studying DevOps.
 
 ### Skills
 
