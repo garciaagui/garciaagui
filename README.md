@@ -45,10 +45,6 @@ I hold a degree in Financial Management and have accumulated four years of profe
 [![GitHub][github-badge]][github-url]
 [![LinkedIn][linkedin-badge]][linkedin-url]
 
-### GitHub Stats
-
-<a href="https://github.com/garciaagui" align="left"><img src="https://github-readme-stats-pearl-phi.vercel.app/api/top-langs/?username=garciaagui&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=90,22272E,2E3251&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
-
 <!-- Skills Badges -->
 
 [bootstrap-url]: https://getbootstrap.com/
